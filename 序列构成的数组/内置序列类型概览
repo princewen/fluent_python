@@ -1,0 +1,5 @@
+容器序列：list、tuple、collections.deque 可以存放不同类型的数据
+扁平序列：str、bytes、bytearray、memoryview和array.array ，只能容纳一种类型
+
+可变序列：list、bytearray、array.array、collections.deque、memoryview
+不可变序列：tuple、str和bytes
